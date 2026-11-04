@@ -34,7 +34,7 @@ The planned project structure is:
 ```text
 predictive-maintenance-intelligence-system/
 ├── README.md
-├── architecture.png
+├── PredictiveMaintenance.drawio.png
 ├── predictive_maintenance.ipynb
 ├── data_loader.py
 ├── model.py
