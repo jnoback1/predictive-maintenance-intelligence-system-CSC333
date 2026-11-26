@@ -1,0 +1,45 @@
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Python build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Pytest cache and coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Personal development notes and commands
+commands.txt
